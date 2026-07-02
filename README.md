@@ -42,12 +42,10 @@ Business Question Answered:
 - Netflix content production peaked around 2018.
 - Most Netflix titles are rated TV-MA, suggesting a focus on mature audiences.
 
----
+## Sprint 3 - Data Cleaning
 
-## 🚧 Next Steps
-
-- Data Cleaning
-- Handling missing values
-- Duplicate detection
-- Feature engineering
-- Advanced visualizations
+- Missing values handling
+- Missing categorical values replaced with "Unknown"
+- Rows with missing critical values removed
+- Duplicate detection and removal
+- Clean dataset exported for future analyses

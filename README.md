@@ -29,33 +29,19 @@ L'obiettivo del progetto è imparare le basi della Data Analysis utilizzando Pan
 
 ## 🚧 Stato del progetto - In sviluppo.
 
-**Sprint 1-Data Exploration**
+##STEP BY STEP
+
+## Sprint 1-Data Exploration
 - Dataset loading with Pandas
 - Dataset inspection
 - Missing values analysis
 - Descriptive statistics
 
-**Sprint 2- Exploratory data analysy (EDA)**
+## Sprint 2- Exploratory data analysy (EDA)
 Business question answered: 
 - Does Netflix offer more movies or TV shows?
 - Which countries contribute the most content?
 - How was Netflix content evolved over time?
-- Which content ratings are the most common?
-
-### Sprint 1 - Data Exploration
-
-- Dataset loading with Pandas
-- Dataset inspection
-- Missing values analysis
-- Descriptive statistics
-
-### Sprint 2 - Exploratory Data Analysis (EDA)
-
-Business questions answered:
-
-- Does Netflix offer more movies or TV shows?
-- Which countries contribute the most content?
-- How has Netflix content evolved over time?
 - Which content ratings are the most common?
 
 ### Key Insights

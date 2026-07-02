@@ -29,7 +29,7 @@ L'obiettivo del progetto è imparare le basi della Data Analysis utilizzando Pan
 
 ## 🚧 Stato del progetto - In sviluppo.
 
-##STEP BY STEP
+## STEP BY STEP
 
 ## Sprint 1-Data Exploration
 - Dataset loading with Pandas

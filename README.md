@@ -1,4 +1,4 @@
-# CSV Data Explorer
+<img width="1114" height="494" alt="image" src="https://github.com/user-attachments/assets/6095df79-bf20-45c3-a3fd-a6e2f578207e" /># CSV Data Explorer
 
 A data analysis project built with Python, Pandas and Matplotlib.
 
@@ -49,3 +49,31 @@ Business Question Answered:
 - Rows with missing critical values removed
 - Duplicate detection and removal
 - Clean dataset exported for future analyses
+
+## Sprint 4 - Adavanced Analysis with Groupby
+- Learn how to group data using `groupby()`
+- Perform statistical aggregations on grouped data
+- Compare Movies and TV Shows using multiple metrics
+- Extract business insights from aggregated data
+
+| `groupby()` | Grouping | Groups the dataset according to one or more variables |
+| `mean()` | Aggregation | Computes the average value for each group |
+| `count()` | Aggregation | Counts observations for each group |
+| `agg()` | Multiple Aggregation | Computes multiple statistics simultaneously |
+| `sort_values()` | Sorting | Sorts results by value |
+| `head()` | Selection | Displays the first n results |
+| `value_counts()` | Frequency Analysis | Counts the frequency of values within a group |
+
+Analyses Performed
+- Average release year by content type
+- Content count by type
+- Rating distribution for Movies and TV Shows
+- Top countries by number of titles
+- Multiple statistical aggregations (`count`, `mean`, `min`, `max`)
+
+### Key Insights
+- TV Shows have a more recent average release year than Movies.
+- Netflix's catalog is dominated by Movies.
+- TV-MA is the most common rating for both Movies and TV Shows.
+- The United States and India contribute the highest number of titles.
+- Netflix's catalog is primarily oriented toward an adult audience.
